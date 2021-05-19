@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137551819730",
+    "project_id": "project-nvcti",
+    "storage_bucket": "project-nvcti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137551819730:android:a2529efc51cfc22b0cce0b",
+        "android_client_info": {
+          "package_name": "com.example.project_NVCTI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137551819730-f19u2357km6vnt812cft6tvdc64j1qlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_NVCTI",
+            "certificate_hash": "add866464cc55e831fba33e3996791d32c50603d"
+          }
+        },
+        {
+          "client_id": "137551819730-j0152c4uqgr5f6qn91ol6et23i7u7qen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEcgS_SLZAW7qYqVIxfYQfOVTk6g8Zl9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137551819730-j0152c4uqgr5f6qn91ol6et23i7u7qen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
