@@ -12,3 +12,6 @@ flutter install
 
 
 to install on ur device
+
+
+Check Documentation.pdf for more details about app.
